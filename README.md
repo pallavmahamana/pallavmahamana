@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pallavmahamana
 - 👀 I’m interested in "Everything computers and softwares"
-- 🌱 I’m currently learning to command computer on my whim
-- 💞️ I’m looking to collaborate on anything i know, please check my repo or contact me
+- 🌱 I’m currently learning to command computer on my whim ( take it with a pinch of salt )
+- 💞️ I’m looking to collaborate on anything I know, please check my repo or contact me
 - 📫 Reach me by email
 
 <!---
